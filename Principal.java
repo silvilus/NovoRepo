@@ -5,8 +5,8 @@ public class Principal {
 		
 		System.out.println("Primeira edição Git");
 		System.out.println("Segunda edição");
-		System.out.println("Terceira edição");
-                System.out.println("Quarta edição");                
+		System.out.println("Terceira edição"); 
+                System.out.println("Quarta edição");               
 	}
 
 }
